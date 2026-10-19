@@ -1,4 +1,5 @@
 [core]
     remote = gcsremote
 ['remote "gcsremote"']
-    url = gs://dvc-data-repo/dvc-data-repo/soan-papdi
+    url = gs://dvc-data-repo/soan-papdi
+    credentialpath = D:\Data\credentials\my-ip-project-425607-2b1b451f2fa8.json
